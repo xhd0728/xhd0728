@@ -2,7 +2,8 @@
 
 - 🐧 个人信息：<a href="http://www.hrbeu.edu.cn/" target="_blank">哈尔滨工程大学</a> | <a href="http://cstc.hrbeu.edu.cn/" target="_blank">计算机系</a>
 - 🏡 代码：<a href="https://github.com/xhd0728" target="_blank">Github xhd0728</a> | <a href="https://gitee.com/xhd0728" target="_blank">Gitee xhd0728</a>
-- 🌱 博客：<a href="http://106.13.0.241:1080/">KOKOMI BLOG</a>
+- 🌱 论坛：<a href="http://106.13.0.241/">KOKOMI FORUM</a>
+- 🌱 博客：<a href="https://xhd0728.github.io">KOKOMI BLOG</a>
 - 😺 视频：<a href="https://space.bilibili.com/381611499">bilibili xhd0728</a>
 - 💬 微信：R983454499 (备注：GitHub / Gitee)
 - 📫 邮箱：<a href="xhd0728@hrbeu.edu.cn">xhd0728@hrbeu.edu.cn</a>
