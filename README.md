@@ -5,8 +5,8 @@
 - 🌱 论坛：<a href="http://106.13.0.241/">KOKOMI FORUM</a>
 - 🌱 博客：<a href="https://xhd0728.github.io">KOKOMI BLOG</a>
 - 😺 视频：<a href="https://space.bilibili.com/381611499">bilibili xhd0728</a>
-- 💬 微信：R983454499 (备注：GitHub / Gitee)
-- 📫 邮箱：<a href="xhd0728@hrbeu.edu.cn">xhd0728@hrbeu.edu.cn</a>
+- 💬 微信：R983454499 (备注：GitHub)
+- 📫 邮箱：<a href="mailto://xinhaidong0625@foxmail.com">xinhaidong0625@foxmail.com</a>
 
 ## 今年汇总 ✨
 
