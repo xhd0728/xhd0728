@@ -11,5 +11,3 @@
 ## 今年汇总 ✨
 
 ![xhd0728's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhd0728&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhd0728&layout=compact)](https://github.com/xhd0728/github-readme-stats)
