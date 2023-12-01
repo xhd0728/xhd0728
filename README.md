@@ -11,14 +11,11 @@
 
 - 🌱 I’m currently learning **RAG, LLMs Hallucination**
 
-- 📝 I regularly write articles on [https://me.kokmi0728.eu.org](https://me.kokmi0728.eu.org)
+- 📄 Know about my experiences [https://resume.kokomi0728.eu.org](https://resume.kokomi0728.eu.org)
 
 - 💬 Ask me about **django, vue and pytorch**
 
 - 📫 How to reach me **hdxin2002@gmail.com**
-
-- 📄 Know about my experiences [https://resume.kokomi0728.eu.org](https://resume.kokomi0728.eu.org)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
