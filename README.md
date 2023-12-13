@@ -10,8 +10,7 @@
 
 - 🌱 I’m currently learning **RAG, LLMs Hallucination**
 
-- 📄 Know about my experiences [https://resume.kokomi0728.eu.org](https://resume.kokomi0728.eu.org)
-
+- 📄 Know about my experiences [https://xhd0728.github.io](https://xhd0728.github.io)
 - 💬 Ask me about **django, vue and pytorch**
 
 - 📫 How to reach me **hdxin2002@gmail.com**
