@@ -21,6 +21,4 @@
 
 If the following image fails to load, please refresh!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xhd0728&show_icons=true&locale=en&layout=compact" alt="xhd0728" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xhd0728&show_icons=true&locale=en" alt="xhd0728" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xhd0728&" alt="xhd0728" /></p>
