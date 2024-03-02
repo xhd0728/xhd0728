@@ -22,12 +22,11 @@ My research interests include Information Retrieval, Multi Modal, LLM Pretrainin
 
 - Email: [hdxin2002@gmail.com](mailto://hdxin2002@gmail.com)
 - Twitter: [https://twitter.com/xhd0728]( https://twitter.com/xhd0728)
-- WEB: [https://xhd0728.github.io](https://xhd0728.github.io)
-- BLOG: [https://xinhaidong.cloudns.org](https://xinhaidong.cloudns.org)
-
+- WEB: [https://xhd0728.github.io](https://xhd0728.github.io) | [https://xinhaidong.cloudns.org](https://xinhaidong.cloudns.org)
+ 
 ## Contribution
 
-- Leader Member of WEB 428 (21# 4003, Harbin Engineering University, Harbin)
+- Manager of WEB 428 (21# 4003, Harbin Engineering University, Harbin)
 - Member of GitHub Developer Program
 
 ## Viewers
