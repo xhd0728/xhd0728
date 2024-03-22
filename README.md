@@ -1,34 +1,40 @@
-# Hi 👋, I'm Haidong Xin
-
-I'm a crazy programmer and developer, I wanna do every thing with code.
-
-You are the <img src="https://profile-counter.glitch.me/xhd0728/count.svg"/> user to visit my homepage this month
-
-## My Study Experience
-
-- B.S. in Dept. of Computer Science & Technology, Harbin Engineering University, Heilongjiang, China
-- M.S. in Dept. of Computer Science & Engineering, Northeastern University, Shenyang, China
-
-## Dev Skills
-
-- DEV Proj. with C/C++, Java, Python, Vue.js, Electron, Django, RESTful, MySQL, Redis, SQLite3
-- DL Proj. with Python, PyTorch, and other LLM based tools on learning
-
-## Contact Me
-
-I'd love for you to ask me questions about the skills I know, and you're also welcome to discuss AI and LLM related issues with me.
+I am a senior undergraduate student from the College of Computer Science and Technology of Harbin Engineering University. Currently, I am doing a research internship at [NEUIR](https://neuir.github.io/). I will be pursuing a graduate degree at Northeastern University in the fall of 2024, and being advised by Associate Professor [Zhenghao Liu](https://edwardzh.github.io/) from Tsinghua University.
 
 My research interests include Information Retrieval, Multi Modal, LLM Pretraining and Multi Agent.
 
-- Email: [hdxin2002@gmail.com](mailto://hdxin2002@gmail.com)
-- Twitter: [https://twitter.com/xhd0728]( https://twitter.com/xhd0728)
-- WEB: [https://xhd0728.github.io](https://xhd0728.github.io) | [https://xinhaidong.cloudns.org](https://xinhaidong.cloudns.org)
- 
-## Contribution
+I am looking for internship opportunities related to LLM and Multi Agent, please contact me at [hdxin2002@gmail.com](mailto://hdxin2002@gmail.com), thank you!
 
-- Manager of WEB 428 (21# 4003, Harbin Engineering University, Harbin)
-- Member of GitHub Developer Program
+# 🔥 News
+- *2024.02.21*: &nbsp;🎉🎉 Ph.D Ye's paper is accepted by LREC-COLING 2024 (CCF-B).
+- *2023.09.27*: &nbsp;🎉🎉 Obtained the qualification for master's degree recommendation exemption.
 
-## Viewers
+# 📝 Publications 
 
-<a href="https://clustrmaps.com/site/1byd6"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=PISJmpj-GhTksShW4kBNnUoNczIA9dfGoZfhGAomWTo&cl=ffffff" /></a>
+\* indicates equal contribution.
+
+\# indicates corresponding author.
+
+- MMAD: Multi-modal Movie Audio Description. Xiaojun Ye, Junhao Chen, Xiang Li, **Haidong Xin**, Sheng Zhou, Jiajun Bu. LREC-COLING 2024. **Paper** | [**Project**](https://github.com/Daria8976/MMAD)
+
+# 📖 Educations
+- *2024.09 - 2027.07*, Northeastern University, Dept. of Computer Science and Engineering
+- *2020.09 - 2024.07 (now)*, Harbin Engineering University, Dept. of Computer Science and Technology
+- *2017.09 - 2020.06*, No.1 Senior High School of Yichun City
+
+# 🎖 Honors and Awards
+- *2023.10* 🥈Excellent Student Scholarship.
+- *2023.07* 🥈National Second Prize of CCCC.
+- *2023.05* 🥇First Prize of CCCC.
+- *2023.05* 🥈Honorable Mention of MCM/ICM.
+- *2023.05* 🥈Second Prize of College Student Innovation and Entrepreneurship Competition
+- *2023.05* 🥈Excellent Student Scholarship.
+- *2022.11* 🥇First Prize of CUMCM.
+- *2022.11* 🥈Excellent Student Scholarship.
+- *2022.05* 🥇Excellent Student Scholarship.
+- *2021.10* 🥈Excellent Student Scholarship.
+- *2021.05* 🥇Excellent Student Scholarship.
+
+# 💻 Internships
+- *2023.05 - 2023.06*, China Unicom Research Centre, Harbin.
+- *2023.07 - 2023.08*, Oracle, Harbin.
+- *2022.09 - 2024.06*, Modeling and Emulation in E-Government National Engineering Laboratory, Harbin.
